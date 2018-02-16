@@ -1,6 +1,6 @@
 {
-  "name": "24/7",
-  "description": "24/7",
+  "name": "Test",
+  "description": "Test",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
