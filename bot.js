@@ -6,8 +6,16 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-  if (message.content === 'ping') {
-    message.reply('pong');
+  if (message.content === 'Nodeem') {
+    message.reply('Nodeem ist mein besta!');
+  }
+});
+
+});
+
+client.on('message', message => {
+  if (message.content === 'SEIJI') {
+    message.reply('SEIJI ist der Beste!');
   }
 });
 
